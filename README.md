@@ -1,0 +1,2 @@
+# Machine-learning-_-uses-all-tet-HYPOTHESIS-Testing-
+Statistical/Hypothesis Tests are used to make the generalization/summarize about the population from the sample. These tests are used to check whether there is a enough evidence in sample data to conclude/deduce that any particular/specific/certain condition is also true for entire population.  These test completely relies on the probability dist.
